@@ -59,9 +59,3 @@ A success message will appear if the JSON file has been exported successfully. I
 
 If you encounter any issues with the software, please ensure that you have the correct version of Python installed and that all dependencies from the `requirements.txt` file have been installed properly.
 
-For further assistance, please contact our support team at support@chatdev.com.
-
-Thank you for choosing ChatDev's PDF to JSON Transcriber for your document transcription needs.
-```
-
-This user manual provides clear instructions on how to install and use the PDF to JSON Transcriber software. It includes a brief introduction to the software's main functions, installation instructions, and a step-by-step guide on how to import PDFs and export them as JSON files. Additionally, it provides troubleshooting tips and contact information for further support.
